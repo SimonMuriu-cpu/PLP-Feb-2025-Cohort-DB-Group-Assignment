@@ -1,3 +1,4 @@
+CREATE DATABASE bookstore_db;
 CREATE USER 'admin_lawrence'@'%' IDENTIFIED BY 'Lawrence123!';
 CREATE USER 'admin_simon'@'%' IDENTIFIED BY 'Simon123!';
 CREATE USER 'admin_lukhanyo'@'%' IDENTIFIED BY 'Lukhanyo123!';
